@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/roshniflutter/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/RelWithDebInfo/5o6p192s/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/roshniflutter/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/RelWithDebInfo/5o6p192s/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "output": "/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/build/app/intermediates/cxx/RelWithDebInfo/5o6p192s/obj/x86/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/roshniflutter/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/roshniflutter/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

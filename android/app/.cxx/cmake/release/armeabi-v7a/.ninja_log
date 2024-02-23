@@ -1,0 +1,6 @@
+# ninja log v5
+0	375	1667794929	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	8a05ee33fb2a6697
+375	455	1667794929	/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/build/app/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	9676ec8e4f6b64ee
+9	1196	1668497485	/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/build/app/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	9676ec8e4f6b64ee
+10	8084	1670227187	/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/build/app/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	9676ec8e4f6b64ee
+0	8114	1670244188	/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/build/app/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	9676ec8e4f6b64ee

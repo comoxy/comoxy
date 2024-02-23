@@ -1,0 +1,3 @@
+/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/native-lib.dir

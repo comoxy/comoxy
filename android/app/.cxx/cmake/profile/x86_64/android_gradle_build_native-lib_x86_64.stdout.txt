@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/android/app/.cxx/cmake/profile/x86_64'
+[1/1] Linking CXX shared library "/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/build/app/intermediates/cmake/profile/obj/x86_64/libnative-lib.so"

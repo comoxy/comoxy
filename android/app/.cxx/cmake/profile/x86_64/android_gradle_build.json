@@ -1,0 +1,44 @@
+{
+  "stringTable": {
+    "0": "/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/android/app/.cxx/cmake/profile/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/appworld-ios/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/appworld-ios/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/appworld-ios/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/android/app/CMakeLists.txt",
+    "/Users/appworld-ios/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/appworld-ios/Library/Android/sdk/ndk-bundle/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/appworld-ios/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/android/app/.cxx/cmake/profile/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/appworld-ios/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/android/app/.cxx/cmake/profile/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "buildCommand": "/Users/appworld-ios/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/android/app/.cxx/cmake/profile/x86_64\" native-lib",
+      "buildType": "debug",
+      "toolchain": "1812845718",
+      "abi": "x86_64",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/android/app/src/main/cpp/native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/build/app/intermediates/cmake/profile/obj/x86_64/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1812845718": {
+      "cppCompilerExecutable": "/Users/appworld-ios/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

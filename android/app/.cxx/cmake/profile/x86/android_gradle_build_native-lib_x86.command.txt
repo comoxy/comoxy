@@ -1,0 +1,7 @@
+Executable : /Users/appworld-ios/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/android/app/.cxx/cmake/profile/x86
+native-lib
+jvmArgs : 
+

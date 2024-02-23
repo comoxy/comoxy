@@ -1,0 +1,7 @@
+Executable : /Users/roshniflutter/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/cmake/release/armeabi-v7a
+native-lib
+jvmArgs : 
+

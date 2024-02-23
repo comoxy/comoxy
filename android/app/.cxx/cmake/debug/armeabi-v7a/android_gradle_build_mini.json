@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/CMakeLists.txt",
+    "/Users/roshniflutter/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/roshniflutter/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/roshniflutter/Library/Android/sdk/ndk-bundle/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/roshniflutter/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/roshniflutter/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-armeabi-v7a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/roshniflutter/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/cmake/debug/armeabi-v7a\" native-lib",
+      "abi": "armeabi-v7a",
+      "output": "/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

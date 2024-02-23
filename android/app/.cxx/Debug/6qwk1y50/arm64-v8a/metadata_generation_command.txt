@@ -1,0 +1,23 @@
+                    Executable : /Users/roshniflutter/Library/Android/sdk/cmake/3.18.1/bin/cmake
+arguments : 
+-H/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=19
+-DANDROID_PLATFORM=android-19
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=/Users/roshniflutter/Library/Android/sdk/ndk-bundle
+-DCMAKE_ANDROID_NDK=/Users/roshniflutter/Library/Android/sdk/ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=/Users/roshniflutter/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/roshniflutter/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/build/app/intermediates/cxx/Debug/6qwk1y50/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/build/app/intermediates/cxx/Debug/6qwk1y50/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/Debug/6qwk1y50/arm64-v8a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

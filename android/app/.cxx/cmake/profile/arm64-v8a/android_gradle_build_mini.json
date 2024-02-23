@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "/Users/appworld-ios/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/android/app/CMakeLists.txt",
+    "/Users/appworld-ios/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/appworld-ios/Library/Android/sdk/ndk-bundle/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/appworld-ios/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/android/app/.cxx/cmake/profile/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/appworld-ios/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/android/app/.cxx/cmake/profile/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/appworld-ios/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/android/app/.cxx/cmake/profile/arm64-v8a\" native-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/build/app/intermediates/cmake/profile/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

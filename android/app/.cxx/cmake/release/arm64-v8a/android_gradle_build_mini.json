@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/CMakeLists.txt",
+    "/Users/roshniflutter/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/roshniflutter/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/roshniflutter/Library/Android/sdk/ndk-bundle/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/roshniflutter/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/roshniflutter/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/roshniflutter/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/android/app/.cxx/cmake/release/arm64-v8a\" native-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/roshniflutter/Documents/Buzzle_project/rate_review 3/build/app/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,4 @@
+# ninja log v5
+0	275	1646737731	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	454e1a9afa651fdf
+275	351	1646737731	/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/build/app/intermediates/cmake/profile/obj/x86/libnative-lib.so	5bda2f020705465d
+2	103	1646827245	/Users/appworld-ios/Documents/Rohan/Rohan/FlutterProjects/Review Application Latest/rate_review/build/app/intermediates/cmake/profile/obj/x86/libnative-lib.so	5bda2f020705465d
